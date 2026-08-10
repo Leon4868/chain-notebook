@@ -1,0 +1,16 @@
+node_modules/
+dist/
+artifacts/
+cache/
+coverage/
+.DS_Store
+.env
+.env.*
+!.env.example
+
+contract/ignition/deployments/
+frontend/.vite/
+frontend/src/assets/
+.agents/
+**/.claude
+**/CLAUDE.md
