@@ -56,6 +56,12 @@ flowchart LR
     I --> J["重新读取链上笔记"]
 ```
 
+### 🖼️ 详细流程图
+
+![Chain Notebook DApp 详细流程图](./docs/chain-notebook-flow.png)
+
+<p align="center"><sub>蓝色表示读取数据，橙色表示需要钱包签名的写入交易。</sub></p>
+
 把它类比成线上银行：
 
 | Web3 部分 | 类比 | 在本项目中的职责 |
